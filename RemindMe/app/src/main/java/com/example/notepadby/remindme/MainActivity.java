@@ -25,6 +25,7 @@ import com.example.notepadby.remindme.fragment.DoneFragment;
 import com.example.notepadby.remindme.fragment.SplashFragment;
 import com.example.notepadby.remindme.model.ModelTask;
 
+//Main class
 public class MainActivity extends AppCompatActivity implements AddingTaskDialogFragment.AddingTaskListener,
         CurrentFragment.OnTaskDoneListener, DoneFragment.OnTaskRestoreListener, EditTaskDialogFragment.EditingTaskListener{
 
