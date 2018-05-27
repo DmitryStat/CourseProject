@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="colorPrimaryDark">#FBC02D</color>
+    <color name="colorAccent">#FBC02D</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="priority_high">#F44336</color>
+    <color name="priority_normal">#FFEB3B</color>
+    <color name="priority_low">#4CAF50</color>
+
+    <color name="priority_high_selected">#E57373</color>
+    <color name="priority_normal_selected">#FFF176</color>
+    <color name="priority_low_selected">#81C784</color>
+
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_200">#EEEEEE</color>
+
+</resources>
